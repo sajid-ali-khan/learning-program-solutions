@@ -1,7 +1,7 @@
-package Factories;
+package factories;
 
-import Documents.IDocument;
-import Documents.PdfDocument;
+import documents.IDocument;
+import documents.PdfDocument;
 
 public class PdfDocumentFactory extends DocumentFactory{
     @Override

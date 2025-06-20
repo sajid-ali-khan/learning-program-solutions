@@ -1,4 +1,4 @@
-package Documents;
+package documents;
 
 public class PdfDocument implements IDocument {
     @Override

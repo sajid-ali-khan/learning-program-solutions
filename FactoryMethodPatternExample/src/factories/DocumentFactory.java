@@ -1,6 +1,6 @@
-package Factories;
+package factories;
 
-import Documents.IDocument;
+import documents.IDocument;
 
 public abstract class DocumentFactory {
     public abstract IDocument createDocument();

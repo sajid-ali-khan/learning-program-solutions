@@ -1,4 +1,4 @@
-package Documents;
+package documents;
 
 public interface IDocument {
     void open();

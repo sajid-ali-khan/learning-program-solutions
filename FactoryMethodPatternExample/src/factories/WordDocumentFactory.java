@@ -1,7 +1,7 @@
-package Factories;
+package factories;
 
-import Documents.IDocument;
-import Documents.WordDocument;
+import documents.IDocument;
+import documents.WordDocument;
 
 public class WordDocumentFactory extends DocumentFactory {
     @Override

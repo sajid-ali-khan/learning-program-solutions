@@ -1,4 +1,4 @@
-package Documents;
+package documents;
 
 public class ExcelDocument implements IDocument {
     @Override

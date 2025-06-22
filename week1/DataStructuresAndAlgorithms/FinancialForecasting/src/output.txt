@@ -1,0 +1,7 @@
+Enter the principle:
+10000
+Enter interest rate:
+0.08
+Enter the time(in years):
+5
+The compound interest in 5 years is: ₹14693.28

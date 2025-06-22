@@ -1,4 +1,0 @@
-logger1 = Logger@7b23ec81
-logger2 = Logger@7b23ec81
-Both logger instances are same.
-Main: End of execution.

@@ -1,6 +1,10 @@
+package searchers;
+
+import product.Product;
+
 import java.util.List;
 
-public class BinarySearch implements ISearcher{
+public class BinarySearch implements ISearcher {
     @Override
     public Product searchProduct(List<Product> products, int productId) {
         int l = 0, h = products.size()-1;

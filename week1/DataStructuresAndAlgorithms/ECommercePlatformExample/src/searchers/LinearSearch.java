@@ -1,3 +1,7 @@
+package searchers;
+
+import product.Product;
+
 import java.util.List;
 
 public class LinearSearch implements ISearcher {

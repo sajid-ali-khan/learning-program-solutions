@@ -1,27 +1,27 @@
 Products:
-Product: id= 101        name= Watch      category= Fashion
-Product: id= 102        name= Bowl       category= Kitchen
-Product: id= 103        name= Oil        category= Food
-Product: id= 104        name= Necklace   category= Fashion
-Product: id= 105        name= ChessBoard category= Games
-Product: id= 106        name= Knife      category= Kitchen
-Product: id= 107        name= Table      category= Home
-Product: id= 109        name= TV         category= Electronics
-Product: id= 110        name= Fridge     category= Electronics
-Product: id= 111        name= Microwave  category= Electronics
-Product: id= 112        name= Fan        category= Electronics
-Product: id= 113        name= Curtain    category= Home
-Product: id= 114        name= Bed        category= Home
-Product: id= 115        name= Keyboard   category= Electronics
+product.Product: id= 101        name= Watch      category= Fashion
+product.Product: id= 102        name= Bowl       category= Kitchen
+product.Product: id= 103        name= Oil        category= Food
+product.Product: id= 104        name= Necklace   category= Fashion
+product.Product: id= 105        name= ChessBoard category= Games
+product.Product: id= 106        name= Knife      category= Kitchen
+product.Product: id= 107        name= Table      category= Home
+product.Product: id= 109        name= TV         category= Electronics
+product.Product: id= 110        name= Fridge     category= Electronics
+product.Product: id= 111        name= Microwave  category= Electronics
+product.Product: id= 112        name= Fan        category= Electronics
+product.Product: id= 113        name= Curtain    category= Home
+product.Product: id= 114        name= Bed        category= Home
+product.Product: id= 115        name= Keyboard   category= Electronics
 
 Enter the productId that you want to search:
 112
 Linear search:
-Product: id= 112        name= Fan        category= Electronics
+product.Product: id= 112        name= Fan        category= Electronics
 (33375 nano seconds)
 
 Binary search:
-Product: id= 112        name= Fan        category= Electronics
+product.Product: id= 112        name= Fan        category= Electronics
 (16854 nano seconds)
 
 Binary Search was faster by 16521 nano seconds.

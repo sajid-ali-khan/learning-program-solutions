@@ -1,7 +1,9 @@
+package product;
+
 public class Product {
-    int id;
-    String name;
-    String category;
+    public int id;
+    public String name;
+    public String category;
 
     public Product(int id, String name, String category) {
         this.id = id;
@@ -11,6 +13,6 @@ public class Product {
 
     @Override
     public String toString() {
-        return String.format("Product: id= %-10s name= %-10s category= %-10s\n", String.valueOf(id), name, category);
+        return String.format("product.Product: id= %-10s name= %-10s category= %-10s\n", String.valueOf(id), name, category);
     }
 }

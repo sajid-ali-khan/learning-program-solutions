@@ -1,9 +1,11 @@
-import java.time.Instant;
-import java.time.LocalTime;
+import product.Product;
+import searchers.BinarySearch;
+import searchers.ISearcher;
+import searchers.LinearSearch;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.Timer;
 
 public class SearchTest {
     public static void main(String[] args) {

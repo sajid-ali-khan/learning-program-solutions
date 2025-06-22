@@ -55,4 +55,4 @@ Actually, there is a direct math formula that we can use to reduce the time comp
 Whic is, 
 `A=P×(1+r)^t`, making the optimized Time Complexity = `O(1)`.
 
-This also optimizes the Space Complexity making the Optimized Space Complexity = `O(1)` i.e., Constant Time.
+This also optimizes the Space Complexity making the Optimized Space Complexity = `O(1)` i.e., Constant Space.

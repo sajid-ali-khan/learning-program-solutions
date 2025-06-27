@@ -5,13 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 
 class CalculatorTest {
-    static Calculator calculator;
-
-    @BeforeAll
-    static void setUp() {
-        calculator = new Calculator();
-    }
-
+    static Calculator calculator = new Calculator();
     @Test
     void testAdd(){
         assertEquals(4, calculator.add(2, 2));

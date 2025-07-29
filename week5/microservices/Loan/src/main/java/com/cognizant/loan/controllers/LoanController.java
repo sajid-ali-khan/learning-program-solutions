@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@EnableDiscoveryClient
 public class LoanController {
     @GetMapping("loan/{number}")
     public Loan getLoan(String number){
